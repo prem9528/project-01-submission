@@ -1,4 +1,4 @@
-# project-1# Radon
+# project-1
 
 Repository for backend cohort - Radon
 
